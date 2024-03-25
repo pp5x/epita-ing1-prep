@@ -13,12 +13,12 @@
 
 Bienvenue à l'EPITA (École Pour l'Informatique et les Techniques Avancées). Si
 vous lisez ceci, c'est probablement parce que vous souhaitez vous préparer à
-rejoindre l'ING1 (première année du cycle ingénieur). Ce guide est à destination
-des étudiants ayant passés le concours Advance Parallèle et Advance CPGE. Alors
-que le mois d'août touche à sa fin et que la rentrée se profile à l'horizon, que
-vous soyez en train de revoir vos cours de programmation ou à profiter au bord
-de la Piscine, ce guide vous permettra de commencer l'année un peu plus préparé.
-En parlant de **Piscine**...
+rejoindre l'ING1 (première année du cycle ingénieur). Ce guide est destiné aux
+étudiants ayant passés le concours Advance Parallèle ou Advance CPGE. Alors que
+le mois d'août touche bientôt à sa fin et que la rentrée se profile à
+l'horizon, que vous soyez en train de revoir vos cours de programmation ou à
+profiter au bord de la Piscine, ce guide vous permettra de commencer l'année un
+peu plus préparé. En parlant de **Piscine**...
 
 ### Se préparer pour la Piscine
 
@@ -27,15 +27,15 @@ programmation en C/UNIX. On y apprend les bases de la programmation en C, on y
 implémente *from scratch* des algorithmes, des structures données et à
 construire des programmes simples qui s'interfacent avec le système
 d'exploitation. Cet atelier *ressource* pose les fondamentaux pour que par la
-suite les étudiants soient capable de faire des projets de programmation de plus
-en plus complexes, au départ seuls puis en équipe. On apprend à collaborer sur
-des projets de plus en plus grands. Ce qui est proche du monde du travail en
-entreprise. Cette expertise s'acquiert avec le temps et par une pratique
+suite les étudiants soient capables de réaliser des projets de programmation de
+plus en plus complexes, d'abord seuls puis en équipe. On apprend à collaborer
+sur des projets de plus en plus grands, ce qui est proche du monde du travail
+en entreprise. Cette expertise s'acquiert avec le temps et par une pratique
 régulière de la programmation.
 
 ### Harmonisation informatique
 
-L'EPITA se distingue par une certaine identitée dans la construction de ses
+L'EPITA se distingue par une certaine identité dans la construction de ses
 activités. On cherche à acquérir une *expertise* en informatique et on souhaite
 devenir *efficace* dans la réalisation des projets.
 
@@ -47,12 +47,11 @@ ceux qui débutent en informatique ou qui ont peu de pratique) :
 - Initiation à la programmation
 - Architecture des ordinateurs
 
-Sans aucun doute. Les plus passionnés d'entres-nous se sentiront à leur aise !
 Le but de l'harmonisation informatique est d'amener tout le monde à prendre
 goût à la programmation, à personnaliser son système, de chercher à comprendre
-pourquoi les choses sont comme elles sont et *pourquoi* tout cela fonctionne !
-En d'autre terme, l'apprentissage n'est pas uniquement théorique, il est rendu
-possible par la mise en place d'un *environnement* particulier.  Vous serez
+*pourquoi* les choses sont comme elles sont et *comment* tout cela fonctionne !
+En d'autre termes, l'apprentissage n'est pas uniquement théorique, il est rendu
+possible par la mise en place d'un *environnement* particulier. Vous serez
 amenés à quitter votre zone de confort et il faudra tenir compte des
 contraintes.
 
@@ -60,26 +59,26 @@ contraintes.
 
 Voici une liste non exhaustive de ce que vous serez amené à faire :
 
-- Installer Linux en natif sur sa machine personnelle et le configurer
+- Installer Linux nativement sur votre machine personnelle et le configurer
 - Utiliser un terminal pour taper des lignes de commande en shell
 - Chainer des commandes entre elles pour faire un traitement de données
-- Utiliser un editeur en mode texte comme `vim` ou `emacs`
-- Ré-implémenter une structure de donnée comme une liste chaînée en C en
+- Utiliser un éditeur en mode texte comme `vim` ou `emacs`
+- Réimplémenter une structure de données comme une liste chaînée en C en
   faisant appel à un allocateur de mémoire
-- Compiler et lancer son programme en ligne de commande
-- Personnaliser son environnement de travail sous i3
-- Apprendre à saisir du texte sur son clavier efficacement (dactylo)
+- Compiler et lancer votre programme en ligne de commande
+- Personnaliser votre environnement de travail sous i3
+- Apprendre à saisir du texte sur votre clavier efficacement (dactylographie)
 - Programmer en assembleur dans un émulateur
 - Utiliser `git` pour sauvegarder son travail
 
 ## Ressources
 
-En attendant le contenu pédagogique fait par l'EPITA auquel vous aurez accès à
-votre arrivée, voici un regroupement de diverses ressources que vous pourriez
-explorer pendant deux semaines.
+En attendant d'avoir accès au contenu pédagogique mis en place par l'EPITA,
+voici un regroupement de diverses ressources que vous pourriez explorer pendant
+environ deux semaines (la régularité est plus importante que la quantité).
 
 Pas d'inquiétude si vous ne faites pas tout, c'est long et c'est normal ! Nous
-verrons tous cela bientôt.
+verrons tout cela bientôt.
 
 ### Linux
 
@@ -101,13 +100,13 @@ Vous retrouverez une initiation à Linux orientée Ubuntu à l'adresse suivante 
 Si vous avez déjà installé Linux chez vous et que vous êtes à l'aise avec la
 ligne de commande et l'édition de fichier, je vous recommande plutôt de
 réaliser une installation d'[ArchLinux](https://wiki.archlinux.org/) (dans une
-machine virtuelle dans un premier temps, mais ensuite envisager l'avoir en
+machine virtuelle dans un premier temps, mais ensuite envisagez de l'avoir en
 natif).
 
 ArchLinux est une distribution où l'on part de zéro pour construire son
-système. Ce principe amène donc son utilisateur à résoudre des problèmes au
-fur et à mesure qu'il souhaite avoir des fonctionnalités supplémentaires (comme
-le wifi par exemple).
+système. Ce principe amène donc son utilisateur à résoudre des problèmes au fur
+et à mesure qu'il souhaite avoir des fonctionnalités supplémentaires (comme le
+wifi par exemple).
 
 - [ArchLinux - Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
 
@@ -117,14 +116,23 @@ Window manager (WM) recommandé : i3
 
 #### Python
 
-Apprentissage du langage de programmation.
+Dans un premier temps, s'assurer que l'on est capable de réaliser des petits
+programmes, algorithmes en Python et si possible d'implémenter des structures
+de données.
 
-- [Zeste du Savoir - Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
+C'est aussi l'occasion si vous ne l'avez jamais fait de s'intéresser aux
+*tests* (pytest) qui permettent de valider le bon fonctionnement d'un code. Ils
+sont essentiels pour batîr des programmes plus conséquents, mais permettent
+aussi de programmer plus rapidement.
+
+- [Zeste de Savoir - Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
 - <https://fr.futurecoder.io/course>
 - [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
 - [https://nostarch.com/learn-code-solving-problems](https://nostarch.com/learn-code-solving-problems)
 
 #### C/UNIX
+
+S'intéresser à la gestion de la mémoire et aux structures de données.
 
 - [Zeste de Savoir - Le language C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
 - [Learn X in Y minutes - C](https://learnxinyminutes.com/docs/c/)
@@ -132,6 +140,7 @@ Apprentissage du langage de programmation.
 
 ### Algorithmes
 
+- [Zeste de Savoir - Algorithmique pour l'apprenti programmeur](https://zestedesavoir.com/tutoriels/621/algorithmique-pour-lapprenti-programmeur/)
 - <https://www.coursera.org/learn/algorithms-part1>
 - [VisuAlgo](https://visualgo.net)
 
