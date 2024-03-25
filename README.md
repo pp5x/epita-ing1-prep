@@ -119,13 +119,15 @@ Window manager (WM) recommandé : i3
 
 Apprentissage du langage de programmation.
 
+- [Zeste du Savoir - Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
 - <https://fr.futurecoder.io/course>
 - [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
 - [https://nostarch.com/learn-code-solving-problems](https://nostarch.com/learn-code-solving-problems)
 
 #### C/UNIX
 
-- [OpenClassRooms - Apprenez à programmer en C](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
+- [Zeste de Savoir - Le language C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
+- [Learn X in Y minutes - C](https://learnxinyminutes.com/docs/c/)
 - <https://nostarch.com/Effective_C>
 
 ### Algorithmes
