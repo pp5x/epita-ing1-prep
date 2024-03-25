@@ -71,6 +71,92 @@ Voici une liste non exhaustive de ce que vous serez amené à faire :
 - Programmer en assembleur dans un émulateur
 - Utiliser `git` pour sauvegarder son travail
 
-Vous l'aurez compris. Pas d'éditeurs pleins de paillettes qui font pleins de
-choses qu'on ne maîtrise pas encore. C'est l'envers du décors qui nous
-intéresse.
+## Ressources
+
+En attendant le contenu pédagogique fait par l'EPITA auquel vous aurez accès à
+votre arrivée, voici un regroupement de diverses ressources que vous pourriez
+explorer pendant deux semaines.
+
+Pas d'inquiétude si vous ne faites pas tout, c'est long et c'est normal ! Nous
+verrons tous cela bientôt.
+
+### Linux
+
+Linux est un système d'exploitation au même titre que Windows ou MacOS.
+L'apprentissage de la programmation se fait quasi-exclusivement sur cette
+plateforme.
+
+#### Niveau 1 : Ubuntu
+
+Si vous n'avez jamais utilisé Linux, je vous recommande Ubuntu comme première
+distribution.
+
+Vous retrouverez une initiation à Linux orientée Ubuntu à l'adresse suivante :
+
+- [OpenClassRooms - Initiez-vous à Linux](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux)
+
+#### Niveau 2 : ArchLinux
+
+Si vous avez déjà installé Linux chez vous et que vous êtes à l'aise avec la
+ligne de commande et l'édition de fichier, je vous recommande plutôt de
+réaliser une installation d'[ArchLinux](https://wiki.archlinux.org/) (dans une
+machine virtuelle dans un premier temps, mais ensuite envisager l'avoir en
+natif).
+
+ArchLinux est une distribution où l'on part de zéro pour construire son
+système. Ce principe amène donc son utilisateur à résoudre des problèmes au
+fur et à mesure qu'il souhaite avoir des fonctionnalités supplémentaires (comme
+le wifi par exemple).
+
+- [ArchLinux - Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
+
+Window manager (WM) recommandé : i3
+
+### Programmation
+
+#### Python
+
+Apprentissage du langage de programmation.
+
+- <https://fr.futurecoder.io/course>
+- [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
+- [https://nostarch.com/learn-code-solving-problems](https://nostarch.com/learn-code-solving-problems)
+
+#### C/UNIX
+
+- [OpenClassRooms - Apprenez à programmer en C](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
+- <https://nostarch.com/Effective_C>
+
+### Algorithmes
+
+- <https://www.coursera.org/learn/algorithms-part1>
+- [VisuAlgo](https://visualgo.net)
+
+#### Sur quoi se concentrer ?
+
+- Manipulation des chaines de caractères
+- Manipulation des tableaux et algorithmes de recherche
+- Implémentation des listes chainées (avec chainage)
+
+### Editeur de texte
+
+#### vim
+
+`vim` sera probablement votre éditeur de texte pour le semestre à venir. Une
+fois qu'on est habitué à l'édition "modale", on devient très efficace lorsqu'il
+s'agit de modifier ou naviguer du texte. Un tutoriel est normalement installé
+avec l'éditeur, il se lance avec `vimtutor`.
+
+Il existe de nombreuses ressources en ligne :
+
+- <https://github.com/iggredible/Learn-Vim>
+
+N'en faites pas nécessairement une priorité, le plus d'important est d'être à
+l'aise avec son éditeur pour écrire quelques programmes en Python ou en C.
+
+## Explorer et aller plus loin
+
+- [No Starch Press](https://nostarch.com/): nombreux ouvrages sur la
+  programmation et les systèmes.
+- [Advent of Code](https://adventofcode.com/): challenges de programmation
+- [LeetCode](https://leetcode.com/): problèmes de programmation
