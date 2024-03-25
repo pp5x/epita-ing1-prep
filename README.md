@@ -4,9 +4,10 @@
 
 - Table des matières
   - [Introduction](#introduction)
-  - [Se préparer pour la Piscine](#se-préparer-pour-la-piscine)
-  - [Harmonisation informatique](#harmonisation-informatique)
-  - [Concrêtement ?](#concrêtement-)
+    - [Se préparer pour la Piscine](#se-préparer-pour-la-piscine)
+    - [Harmonisation informatique](#harmonisation-informatique)
+    - [Concrêtement ?](#concrêtement-)
+  - [Ressources](#ressources)
 
 ## Introduction
 
