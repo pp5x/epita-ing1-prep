@@ -126,8 +126,8 @@ sont essentiels pour batîr des programmes plus conséquents, mais permettent
 aussi de programmer plus rapidement.
 
 - [Zeste de Savoir - Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
-- <https://fr.futurecoder.io/course>
 - [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
+- <https://fr.futurecoder.io/course>
 - [https://nostarch.com/learn-code-solving-problems](https://nostarch.com/learn-code-solving-problems)
 
 #### C/UNIX
