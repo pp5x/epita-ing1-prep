@@ -1,12 +1,15 @@
 # ING1 Entry Preparation Guide at EPITA
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pp5x/epita-ing1-prep/blob/main/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/pp5x/epita-ing1-prep/blob/main/README.fr.md)
+
 ![EPITA logo](res/epita.svg)
 
 - Table of Contents
   - [Introduction](#introduction)
     - [Preparing for the Piscine](#preparing-for-the-piscine)
     - [Computer Science Harmonization](#computer-science-harmonization)
-    - [Specifically?](#specifically-)
+    - [Specifically?](#specifically)
   - [Resources](#resources)
 
 ## Introduction
