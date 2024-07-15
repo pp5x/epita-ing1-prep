@@ -1,174 +1,170 @@
-# Guide de préparation d'entrée en ING1 à l'EPITA
+# ING1 Entry Preparation Guide at EPITA
 
 ![EPITA logo](res/epita.svg)
 
-- Table des matières
+- Table of Contents
   - [Introduction](#introduction)
-    - [Se préparer pour la Piscine](#se-préparer-pour-la-piscine)
-    - [Harmonisation informatique](#harmonisation-informatique)
-    - [Concrêtement ?](#concrêtement-)
-  - [Ressources](#ressources)
+    - [Preparing for the Piscine](#preparing-for-the-piscine)
+    - [Computer Science Harmonization](#computer-science-harmonization)
+    - [Specifically?](#specifically-)
+  - [Resources](#resources)
 
 ## Introduction
 
-Bienvenue à l'EPITA (École Pour l'Informatique et les Techniques Avancées). Si
-vous lisez ceci, c'est probablement parce que vous souhaitez vous préparer à
-rejoindre l'ING1 (première année du cycle ingénieur). Ce guide est destiné aux
-étudiants ayant passés le concours Advance Parallèle ou Advance CPGE. Alors que
-le mois d'août touche bientôt à sa fin et que la rentrée se profile à
-l'horizon, que vous soyez en train de revoir vos cours de programmation ou à
-profiter au bord de la Piscine, ce guide vous permettra de commencer l'année un
-peu plus préparé. En parlant de **Piscine**...
+Welcome to EPITA (School of Computer Science and Advanced Techniques). If you
+are reading this, it's probably because you want to prepare to join ING1 (first
+year of the engineering cycle). This guide is intended for students who passed
+the Advance Parallèle or Advance CPGE exam. As August is coming to an end and
+the start of the school year is approaching, whether you are reviewing your
+programming courses or relaxing by the pool, this guide will help you start the
+year a bit more prepared. Speaking of the **Piscine**...
 
-### Se préparer pour la Piscine
+### Preparing for the Piscine
 
-Depuis la création de l'école en 1984, la Piscine est un atelier de
-programmation en C/UNIX. On y apprend les bases de la programmation en C, on y
-implémente *from scratch* des algorithmes, des structures données et à
-construire des programmes simples qui s'interfacent avec le système
-d'exploitation. Cet atelier *ressource* pose les fondamentaux pour que par la
-suite les étudiants soient capables de réaliser des projets de programmation de
-plus en plus complexes, d'abord seuls puis en équipe. On apprend à collaborer
-sur des projets de plus en plus grands, ce qui est proche du monde du travail
-en entreprise. Cette expertise s'acquiert avec le temps et par une pratique
-régulière de la programmation.
+Since the school's inception in 1984, the Piscine has been a C/UNIX programming
+workshop. You will learn the basics of C programming, implement algorithms,
+data structures from scratch, and build simple programs that interface with the
+operating system. This *resource* workshop lays the foundation for students to
+later undertake increasingly complex programming projects, first individually
+and then in teams. Collaboration on larger and larger projects, akin to working
+in a company, is emphasized. This expertise is acquired over time and through
+regular programming practice.
 
-### Harmonisation informatique
+### Computer Science Harmonization
 
-L'EPITA se distingue par une certaine identité dans la construction de ses
-activités. On cherche à acquérir une *expertise* en informatique et on souhaite
-devenir *efficace* dans la réalisation des projets.
+EPITA stands out with a specific identity in the construction of its
+activities. The aim is to gain *expertise* in computer science and become
+*efficient* in project execution.
 
-Afin de s'acculturer, le premier mois dispense les enseignements suivants (pour
-ceux qui débutent en informatique ou qui ont peu de pratique) :
+To acclimate, the first month offers the following courses (for those new to
+computer science or with little practice):
 
-- Mon PC & Systèmes UNIX
-- Algorithmes et structures de données
-- Initiation à la programmation
-- Architecture des ordinateurs
+- My PC & UNIX Systems
+- Algorithms and Data Structures
+- Introduction to Programming
+- Computer Architecture
 
-Le but de l'harmonisation informatique est d'amener tout le monde à prendre
-goût à la programmation, à personnaliser son système, de chercher à comprendre
-*pourquoi* les choses sont comme elles sont et *comment* tout cela fonctionne !
-En d'autre termes, l'apprentissage n'est pas uniquement théorique, il est rendu
-possible par la mise en place d'un *environnement* particulier. Vous serez
-amenés à quitter votre zone de confort et il faudra tenir compte des
-contraintes.
+The goal of computer science harmonization is to make everyone enjoy
+programming, personalize their system, understand *why* things are the way they
+are, and *how* everything works! In other words, learning is not just
+theoretical; it is facilitated by establishing a particular *environment*. You
+will need to step out of your comfort zone and consider constraints.
 
-### Concrêtement ?
+### Specifically?
 
-Voici une liste non exhaustive de ce que vous serez amené à faire :
+Here is a non-exhaustive list of what you will be expected to do:
 
-- Installer Linux nativement sur votre machine personnelle et le configurer
-- Utiliser un terminal pour taper des lignes de commande en shell
-- Chainer des commandes entre elles pour faire un traitement de données
-- Utiliser un éditeur en mode texte comme `vim` ou `emacs`
-- Réimplémenter une structure de données comme une liste chaînée en C en
-  faisant appel à un allocateur de mémoire
-- Compiler et lancer votre programme en ligne de commande
-- Personnaliser votre environnement de travail sous i3
-- Apprendre à saisir du texte sur votre clavier efficacement (dactylographie)
-- Programmer en assembleur dans un émulateur
-- Utiliser `git` pour sauvegarder son travail
+- Install Linux natively on your personal machine and configure it
+- Use a terminal to type shell command lines
+- Chain commands to process data
+- Use a text-mode editor like `vim` or `emacs`
+- Reimplement a data structure such as a linked list in C using a memory
+  allocator
+- Compile and run your program from the command line
+- Personalize your work environment under i3
+- Learn to type efficiently (typing)
+- Program in assembly language in an emulator
+- Use `git` to save your work
 
-## Ressources
+## Resources
 
-En attendant d'avoir accès au contenu pédagogique mis en place par l'EPITA,
-voici un regroupement de diverses ressources que vous pourriez explorer pendant
-environ deux semaines (la régularité est plus importante que la quantité).
+While waiting to access the educational content provided by EPITA, here is a
+collection of various resources you could explore for about two weeks
+(regularity is more important than quantity).
 
-Pas d'inquiétude si vous ne faites pas tout, c'est long et c'est normal ! Nous
-verrons tout cela bientôt.
+Don't worry if you don't cover everything; it's long and that's normal! We will
+see all of this soon.
 
 ### Linux
 
-Linux est un système d'exploitation au même titre que Windows ou MacOS.
-L'apprentissage de la programmation se fait quasi-exclusivement sur cette
-plateforme.
+Linux is an operating system like Windows or MacOS. Programming is taught
+almost exclusively on this platform.
 
-#### Niveau 1 : Ubuntu
+#### Level 1: Ubuntu
 
-Si vous n'avez jamais utilisé Linux, je vous recommande Ubuntu comme première
-distribution.
+If you have never used Linux, I recommend Ubuntu as your first distribution.
 
-Vous retrouverez une initiation à Linux orientée Ubuntu à l'adresse suivante :
+You will find an introduction to Linux oriented towards Ubuntu at the following
+address:
 
-- [OpenClassRooms - Initiez-vous à Linux](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux)
+- [OpenClassRooms - Get Started with
+  Linux](https://openclassrooms.com/en/courses/7170491-get-started-with-linux)
 
-#### Niveau 2 : ArchLinux
+#### Level 2: ArchLinux
 
-Si vous avez déjà installé Linux chez vous et que vous êtes à l'aise avec la
-ligne de commande et l'édition de fichier, je vous recommande plutôt de
-réaliser une installation d'[ArchLinux](https://wiki.archlinux.org/) (dans une
-machine virtuelle dans un premier temps, mais ensuite envisagez de l'avoir en
-natif).
+If you have already installed Linux and are comfortable with the command line
+and file editing, I recommend doing an [ArchLinux](https://wiki.archlinux.org/)
+installation (in a virtual machine at first, but then consider having it
+natively).
 
-ArchLinux est une distribution où l'on part de zéro pour construire son
-système. Ce principe amène donc son utilisateur à résoudre des problèmes au fur
-et à mesure qu'il souhaite avoir des fonctionnalités supplémentaires (comme le
-wifi par exemple).
+ArchLinux is a distribution where you start from scratch to build your system.
+This principle leads the user to solve problems as they wish to have additional
+features (such as wifi).
 
-- [ArchLinux - Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
+- [ArchLinux - Installation
+  Guide](https://wiki.archlinux.org/title/Installation_guide)
 
-Window manager (WM) recommandé : i3
+Recommended window manager (WM): i3
 
-### Programmation
+### Programming
 
 #### Python
 
-Dans un premier temps, s'assurer que l'on est capable de réaliser des petits
-programmes, algorithmes en Python et si possible d'implémenter des structures
-de données.
+First, ensure you can write small programs, algorithms in Python, and if
+possible, implement data structures.
 
-C'est aussi l'occasion si vous ne l'avez jamais fait de s'intéresser aux
-*tests* (pytest) qui permettent de valider le bon fonctionnement d'un code. Ils
-sont essentiels pour batîr des programmes plus conséquents, mais permettent
-aussi de programmer plus rapidement.
+This is also an opportunity, if you have never done so, to get interested in
+*testing* (pytest) which validates the proper functioning of code. They are
+essential for building larger programs but also allow for faster programming.
 
-- [Zeste de Savoir - Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
+- [Zeste de Savoir -
+  Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
 - [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
 - <https://fr.futurecoder.io/course>
-- [https://nostarch.com/learn-code-solving-problems](https://nostarch.com/learn-code-solving-problems)
+- [Learn to Code by Solving
+  Problems](https://nostarch.com/learn-code-solving-problems)
 
 #### C/UNIX
 
-S'intéresser à la gestion de la mémoire et aux structures de données.
+Focus on memory management and data structures.
 
-- [Zeste de Savoir - Le language C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
+- [Zeste de Savoir - The C
+  Language](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
 - [Learn X in Y minutes - C](https://learnxinyminutes.com/docs/c/)
 - <https://nostarch.com/Effective_C>
 
-### Algorithmes
+### Algorithms
 
-- [Zeste de Savoir - Algorithmique pour l'apprenti programmeur](https://zestedesavoir.com/tutoriels/621/algorithmique-pour-lapprenti-programmeur/)
+- [Zeste de Savoir - Algorithms for the Apprentice
+  Programmer](https://zestedesavoir.com/tutoriels/621/algorithmique-pour-lapprenti-programmeur/)
 - <https://www.coursera.org/learn/algorithms-part1>
 - [VisuAlgo](https://visualgo.net)
 
-#### Sur quoi se concentrer ?
+#### What to focus on?
 
-- Manipulation des chaines de caractères
-- Manipulation des tableaux et algorithmes de recherche
-- Implémentation des listes chainées (avec chainage)
+- String manipulation
+- Array manipulation and search algorithms
+- Implementation of linked lists (with chaining)
 
-### Editeur de texte
+### Text Editor
 
 #### vim
 
-`vim` sera probablement votre éditeur de texte pour le semestre à venir. Une
-fois qu'on est habitué à l'édition "modale", on devient très efficace lorsqu'il
-s'agit de modifier ou naviguer du texte. Un tutoriel est normalement installé
-avec l'éditeur, il se lance avec `vimtutor`.
+`vim` will probably be your text editor for the upcoming semester. Once
+accustomed to "modal" editing, you become very efficient in modifying or
+navigating text. A tutorial is usually installed with the editor and can be
+started with `vimtutor`.
 
-Il existe de nombreuses ressources en ligne :
+There are numerous online resources:
 
 - <https://github.com/iggredible/Learn-Vim>
 
-N'en faites pas nécessairement une priorité, le plus d'important est d'être à
-l'aise avec son éditeur pour écrire quelques programmes en Python ou en C.
+Don't make it a priority; the most important thing is to be comfortable with
+your editor to write some programs in Python or C.
 
-## Explorer et aller plus loin
+## Explore and Go Further
 
-- [No Starch Press](https://nostarch.com/): nombreux ouvrages sur la
-  programmation et les systèmes.
-- [Advent of Code](https://adventofcode.com/): challenges de programmation
-- [LeetCode](https://leetcode.com/): problèmes de programmation
+- [No Starch Press](https://nostarch.com/): many books on programming and
+  systems.
+- [Advent of Code](https://adventofcode.com/): programming challenges
+- [LeetCode](https://leetcode.com/): programming problems
