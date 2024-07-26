@@ -17,11 +17,13 @@
 Bienvenue à l'EPITA (École Pour l'Informatique et les Techniques Avancées). Si
 vous lisez ceci, c'est probablement parce que vous souhaitez vous préparer à
 rejoindre l'ING1 (première année du cycle ingénieur). Ce guide est destiné aux
-étudiants ayant passés le concours Advance Parallèle ou Advance CPGE. Alors que
-le mois d'août touche bientôt à sa fin et que la rentrée se profile à
-l'horizon, que vous soyez en train de revoir vos cours de programmation ou à
-profiter au bord de la Piscine, ce guide vous permettra de commencer l'année un
-peu plus préparé. En parlant de **Piscine**...
+étudiants ayant passés les concours Advance Parallèle, Advance CPGE,
+apprentissage ou encore les échanges internationaux (Exchanges). Alors que le
+mois de septembre approche, la rentrée se profile à l'horizon. Que vous soyez
+en train de revoir vos cours de programmation ou à profiter au bord de la
+Piscine, ce guide vous permettra de commencer l'année un peu plus préparé.
+
+En parlant de **Piscine** 🏊‍♂️...
 
 ### Se préparer pour la Piscine
 
@@ -55,8 +57,7 @@ goût à la programmation, à personnaliser son système, de chercher à compren
 *pourquoi* les choses sont comme elles sont et *comment* tout cela fonctionne !
 En d'autre termes, l'apprentissage n'est pas uniquement théorique, il est rendu
 possible par la mise en place d'un *environnement* particulier. Vous serez
-amenés à quitter votre zone de confort et il faudra tenir compte des
-contraintes.
+amenés à quitter votre zone de confort et à vous adapter aux contraintes.
 
 ### Concrêtement ?
 
@@ -165,6 +166,7 @@ avec l'éditeur, il se lance avec `vimtutor`.
 Il existe de nombreuses ressources en ligne :
 
 - <https://github.com/iggredible/Learn-Vim>
+- <https://www.openvim.com/tutorial.html>
 
 N'en faites pas nécessairement une priorité, le plus d'important est d'être à
 l'aise avec son éditeur pour écrire quelques programmes en Python ou en C.

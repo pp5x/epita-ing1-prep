@@ -15,12 +15,14 @@
 ## Introduction
 
 Welcome to EPITA (School of Computer Science and Advanced Techniques). If you
-are reading this, it's probably because you want to prepare to join ING1 (first
-year of the engineering cycle). This guide is intended for students who passed
-the Advance Parallèle or Advance CPGE exam. As August is coming to an end and
-the start of the school year is approaching, whether you are reviewing your
-programming courses or relaxing by the pool, this guide will help you start the
-year a bit more prepared. Speaking of the **Piscine**...
+are reading this, it's probably because you want to prepare to join
+ING1/APPING1 (first year of the engineering cycle). This guide is intended for
+students who passed Advance Parallèle, Advance CPGE exam, Apprentices, or
+International Exchanges. As September is coming, the start of the school year
+is approaching, whether you are reviewing your programming courses or relaxing
+by the pool, this guide will help you start the year a bit more prepared.
+
+Speaking of the **Piscine** 🏊‍♂️("swimming *pool*" in French)...
 
 ### Preparing for the Piscine
 
@@ -51,9 +53,9 @@ The goal of computer science harmonization is to make everyone enjoy
 programming, personalize their system, understand *why* things are the way they
 are, and *how* everything works! In other words, learning is not just
 theoretical; it is facilitated by establishing a particular *environment*. You
-will need to step out of your comfort zone and consider constraints.
+will need to step out of your comfort zone and adapt to constraints.
 
-### Specifically?
+### What are we talking about?
 
 Here is a non-exhaustive list of what you will be expected to do:
 
@@ -120,8 +122,7 @@ This is also an opportunity, if you have never done so, to get interested in
 *testing* (pytest) which validates the proper functioning of code. They are
 essential for building larger programs but also allow for faster programming.
 
-- [Zeste de Savoir -
-  Python](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)
+- [Beej's Guide to Python programming](https://beej.us/guide/bgpython/)
 - [PyFlo - A Free, Interactive Guide to Python Programming](https://pyflo.net/)
 - <https://fr.futurecoder.io/course>
 - [Learn to Code by Solving
@@ -131,8 +132,7 @@ essential for building larger programs but also allow for faster programming.
 
 Focus on memory management and data structures.
 
-- [Zeste de Savoir - The C
-  Language](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
+  [Beej's Guide to C programming](https://beej.us/guide/bgc/)
 - [Learn X in Y minutes - C](https://learnxinyminutes.com/docs/c/)
 - <https://nostarch.com/Effective_C>
 
@@ -161,6 +161,7 @@ started with `vimtutor`.
 There are numerous online resources:
 
 - <https://github.com/iggredible/Learn-Vim>
+- <https://www.openvim.com/tutorial.html>
 
 Don't make it a priority; the most important thing is to be comfortable with
 your editor to write some programs in Python or C.
