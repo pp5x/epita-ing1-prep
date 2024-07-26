@@ -9,7 +9,7 @@
   - [Introduction](#introduction)
     - [Preparing for the Piscine](#preparing-for-the-piscine)
     - [Computer Science Harmonization](#computer-science-harmonization)
-    - [Specifically?](#specifically)
+    - [What are we talking about?](#what-are-we-talking-about)
   - [Resources](#resources)
 
 ## Introduction
@@ -132,7 +132,7 @@ essential for building larger programs but also allow for faster programming.
 
 Focus on memory management and data structures.
 
-  [Beej's Guide to C programming](https://beej.us/guide/bgc/)
+- [Beej's Guide to C programming](https://beej.us/guide/bgc/)
 - [Learn X in Y minutes - C](https://learnxinyminutes.com/docs/c/)
 - <https://nostarch.com/Effective_C>
 
